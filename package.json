@@ -1,0 +1,10 @@
+{
+  "name": "input-combination-test-suite",
+  "version": "0.0.1",
+  "description": "A testing framework that will generate mocha test cases based on config",
+  "keywords": ["mocha", "test", "unit test"],
+  "bugs": {
+    "email": "tedchength@gmail.com" 
+  },
+  "license": "ISC"
+}

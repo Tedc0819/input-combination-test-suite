@@ -1,1 +1,1 @@
-module.exports = require('../src/InputCombinationTestSuite.coffee') 
+module.exports = require('./src/InputCombinationTestSuite.js') 

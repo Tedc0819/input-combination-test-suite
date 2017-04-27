@@ -1,8 +1,10 @@
-import InputCombinationTestSuite from 'input-combination-test-suite';
+const InputCombinationTestSuite from 'input-combination-test-suite';
 
 class TestSuite extends InputCombinationTestSuite {
 
   constructor() {
+
+    super()
  
     this._methodName = ''
  
@@ -32,7 +34,7 @@ class TestSuite extends InputCombinationTestSuite {
 
   getArgValues(test, combination, arg, argType) {}
 
-  testMethod(test, combination, args) {}
+  testMethod(test, combination, argsValues) {}
 
   clearData(test, combination) {}
 

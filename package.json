@@ -1,6 +1,6 @@
 {
   "name": "input-combination-test-suite",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "A testing framework that will generate mocha test cases based on config",
   "keywords": ["mocha", "test", "unit test"],
   "main": "index.js",
@@ -11,4 +11,4 @@
   "dependencies": {
     "mocha": "^2.5.3"
   } 
-
+}

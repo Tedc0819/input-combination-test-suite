@@ -1,4 +1,4 @@
-#InputCombinationTestSuite = require
+InputCombinationTestSuite = require 'input-combination-test-suite'
 
 class TestSuite extends InputCombinationTestSuite
 
